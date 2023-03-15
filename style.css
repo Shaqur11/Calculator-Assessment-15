@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #dfc3ef;
+    height: 100vh;
+
+}
+body .maincontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+section{
+    height: 40rem;
+    width: 18rem;
+    background-color: #002b4a;
+    border-radius: 14px;
+    
+    
+}
+section .half{
+    background-color: #001e34;
+    height: 15rem;
+}
+
+
+h1{
+    margin-right: 20px;
+    padding-top: 85px;
+    color:  white;
+    font-size: 3.5rem;
+    text-align: end;
+}
+
+
+
+
+
+
+
+
+
+
+
+   
